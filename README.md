@@ -1,5 +1,6 @@
 # HomeBrew_Blacklist
 UblackListのブラックリスト保管用リポジトリ
+
 個人・身内向け
 
 一部のリストは以下のサイトから拝借
