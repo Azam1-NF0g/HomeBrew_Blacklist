@@ -2,3 +2,10 @@
 *://*.org.*/*
 *://*.com.*/*
 *://*.org.co/*
+
+//その他怪しいサイト
+*://*.dushi-jobs.com/*
+*://kutami.co.jp/*
+*://grupoconcordia.com/*
+*://*.bameyeube.com/*
+*://ero.pien9026.com/*
