@@ -18,13 +18,11 @@
 *://www.lancers.jp/*
 *://blog-news.doorblog.jp/*
 *://matome-ch.com/*
-*://applion.jp/*
 *://sodanyaku.readers.jp/*
 *://satokitchen-keiba.net/*
 *://0matome.com/*
 *://shogis.com/*
 *://2chmm.com/*
-*://www.myagent.ne.jp/*
 *://kijyomatome-ch.com/*
 *://2chmatome2.appspot.com/*
 *://asoku.net/*
